@@ -1,0 +1,42 @@
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+
+# Auto-generated files
+bin/
+obj/
+Debug/
+Release/
+*.appxsym
+*.appxupload
+
+# Log files
+*.log
+
+# Configuration files
+appsettings.json
+appsettings.Development.json
+
+# Environment variables
+.env
+
+# Rider
+.idea/
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+*.dbmdl
+*.pfx
+*.publishsettings
+
+# Mac
+.DS_Store
